@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\6lady\source\repos\081024\081024\main.cpp(95,17): warning C4477: 'wprintf' : la cadena de formato '%s' requiere un argumento de tipo 'wchar_t *', pero el argumento variádico 1 tiene el tipo 'std::string'
+C:\Users\6lady\source\repos\081024\081024\main.cpp(100,17): warning C4477: 'wprintf' : la cadena de formato '%s' requiere un argumento de tipo 'wchar_t *', pero el argumento variádico 1 tiene el tipo 'std::string'
+C:\Users\6lady\source\repos\081024\081024\main.cpp(183,67): warning C4244: '+=': conversión de 'ULONGLONG' a 'unsigned int'; posible pérdida de datos
+C:\Users\6lady\source\repos\081024\081024\main.cpp(188,67): warning C4244: '=': conversión de 'ULONGLONG' a 'DWORD'; posible pérdida de datos
+C:\Users\6lady\source\repos\081024\081024\main.cpp(482,64): warning C4305: 'argumento': truncamiento de 'int' a 'bool'
+C:\Users\6lady\source\repos\081024\081024\main.cpp(503,84): warning C4312: 'conversión de tipo': conversión de 'DWORD' a 'void *' de mayor tamaño
+C:\Users\6lady\source\repos\081024\081024\main.cpp(504,41): warning C4312: 'conversión de tipo': conversión de 'DWORD' a 'void *' de mayor tamaño
+C:\Users\6lady\source\repos\081024\081024\main.cpp(504,67): warning C4312: 'conversión de tipo': conversión de 'DWORD' a 'void *' de mayor tamaño
+C:\Users\6lady\source\repos\081024\081024\main.cpp(512,62): warning C4312: 'conversión de tipo': conversión de 'DWORD' a 'void *' de mayor tamaño
+C:\Users\6lady\source\repos\081024\081024\main.cpp(513,41): warning C4312: 'conversión de tipo': conversión de 'DWORD' a 'void *' de mayor tamaño
+C:\Users\6lady\source\repos\081024\081024\main.cpp(513,67): warning C4312: 'conversión de tipo': conversión de 'DWORD' a 'void *' de mayor tamaño
+C:\Users\6lady\source\repos\081024\081024\main.cpp(520,63): warning C4312: 'conversión de tipo': conversión de 'DWORD' a 'void *' de mayor tamaño
+C:\Users\6lady\source\repos\081024\081024\main.cpp(521,41): warning C4312: 'conversión de tipo': conversión de 'DWORD' a 'void *' de mayor tamaño
+C:\Users\6lady\source\repos\081024\081024\main.cpp(521,68): warning C4312: 'conversión de tipo': conversión de 'DWORD' a 'void *' de mayor tamaño
+  081024.vcxproj -> C:\Users\6lady\source\repos\081024\x64\Debug\081024.exe
